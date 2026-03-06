@@ -1,4 +1,4 @@
-# Stock Performance & Financial Health Analysis
+# 📈 Stock Performance & Financial Health Analysis
 
 ## Project Overview
 
